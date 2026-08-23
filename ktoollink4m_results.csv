@@ -1,0 +1,5 @@
+index,short_url,status,final,sitekey,alias,codes,time_elapsed,note
+1,https://link4m.com/go/UhJib6,ERROR,,,,,0:00:00,name 'BASE_HEADERS' is not defined
+1,https://link4m.com/rGfLiK6,ERROR,,,,,0:00:00,name 'BASE_HEADERS' is not defined
+2,https://link4m.com/go/UhJib6,ERROR,,,,,0:00:00,name 'BASE_HEADERS' is not defined
+1,https://link4m.com/WxcuT,SUCCESS,https://nguyentantai238.github.io/ttp_tool/?key=TTP_MjMxMDUzNzI0MDc,6LcQsTQgAAAAADNQ_pCfukfvS0i9lk4oJTVSs5bZ,WxcuT,53bdd9e86ccb94cde37b06c8a9a99b78793fa4d28fc5c06457d56fc004675f00a7d97c25627b3c20b1660d516a656c786854b7e7e5f8a2e38511824ca84eed4f213e3a356062ba480728152232412ea6,0:00:09,OK
